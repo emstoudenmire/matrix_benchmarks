@@ -1,0 +1,4 @@
+*.o
+cpp_matrix
+*.swp
+Makefile
